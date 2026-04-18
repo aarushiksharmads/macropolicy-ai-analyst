@@ -28,4 +28,4 @@ FRED_API_KEY=your_fred_key
 Built as an extension of my MSc thesis on forecasting Economic Policy Uncertainty (EPU) using ML-econometric ensembles. This tool makes that analysis accessible in real time via an agentic LLM interface.
 
 ## Live Demo
-[Click here to open the app](your_streamlit_url_here)
+[Click here to open the app](https://macropolicy-ai-analyst-5edchlqkjzecthbmweoetk.streamlit.app/)
